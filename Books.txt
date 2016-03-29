@@ -1,0 +1,4 @@
+b WarAndPeace Tolstoi 1300
+j TereodorsFromVasukivky Nestayko 600 advanture
+b Kobzar Schevchenko 700
+j Finansyst Draizer 800 roman
